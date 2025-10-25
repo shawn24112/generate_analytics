@@ -196,3 +196,5 @@ MIT • [github](https://github.com/visual-test/compar) • [docs](https://compa
 # Touch update: 1761428043
 
 # Touch update: 1761428043
+
+# PR Merge: 2025-10-26 - refactor/merge-7983
